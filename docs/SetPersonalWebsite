@@ -1,0 +1,16 @@
+## 关于使用github来建立个人网站
+
+#### 建立主页
+1. 注册github，建立repository，命名为"ID.github.io"（用于存放主页）。
+2. 在settings - Pages - Theme Chooser里选择自己想要的主题
+
+#### 建立文章存放
+1. 建立repository，命名随意（用于存放文章）
+2. 在settings - Pages - Source里选择为/docs（推荐用docs来存放文章，这样一来，就只有已经完成了的文章才放进去）
+3. 在settings - Pages - Theme Chooser里选择自己想要的主题（这里的主题要在设置docs后再设置）
+
+至此，就基本设置完成了
+
+
+
+
